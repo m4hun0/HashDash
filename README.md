@@ -1,6 +1,6 @@
 # ⚡ HashDash
 
-![Logo do HashDash](caminho/para/sua/logo.png)
+![Logo do HashDash](caminho/para/sua/logoi.png)
 
 Um gerador de hash **SHA-256** rápido, minimalista e com interface moderna inspirada no **VS Code**. Ideal para desenvolvedores e entusiastas que precisam validar strings de texto ou gerar tokens de verificação instantaneamente.
 
