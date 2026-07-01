@@ -1,8 +1,20 @@
-# ⚡ HashDash
+<p align="center">
+  <img src="logoi.png" alt="TidyMind Logo" width="180px">
+</p>
 
-![Logo do HashDash](caminho/para/sua/logoi.png)
+# <p align="center">TidyMind — Automação Inteligente de Arquivos</p>
 
-Um gerador de hash **SHA-256** rápido, minimalista e com interface moderna inspirada no **VS Code**. Ideal para desenvolvedores e entusiastas que precisam validar strings de texto ou gerar tokens de verificação instantaneamente.
+<p align="center">
+  O <b>TidyMind</b> é um automatizador leve e moderno para Windows, projetado para eliminar o caos digital e trazer clareza mental para o seu dia a dia. Ele monitora e organiza pastas bagunçadas (como a sua pasta de Downloads ou Área de Trabalho) em tempo real, movendo cada arquivo para a sua respectiva categoria de forma 100% automatizada.
+</p>
+
+<p align="center">
+  <a href="https://github.com/sueh0/TidyMind/releases/download/TidyMind/TidyMind.exe">
+    <img src="https://img.shields.io/badge/DOWNLOAD-TidyMind%20(.EXE)-success?style=for-the-badge&logo=windows&logoColor=white&color=2ecc71" alt="Botão de Download TidyMind" height="50px">
+  </a>
+</p>
+
+---
 
 ---
 
